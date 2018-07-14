@@ -20,14 +20,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Input.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02. Input.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02. Input.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="207">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#14#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03. Conditional Statement.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03. Conditional Statement.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -47,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/01. Hello World.go" />
         <option value="$PROJECT_DIR$/02. Input.go" />
+        <option value="$PROJECT_DIR$/03. Conditional Statement.go" />
       </list>
     </option>
   </component>
@@ -91,6 +101,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 02. Input.go">
+  <component name="RunManager" selected="Go Build.go build 03. Conditional Statement.go">
     <configuration name="go build 01. Hello World.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -121,14 +132,24 @@
       <filePath value="$PROJECT_DIR$/02. Input.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build 03. Conditional Statement.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/03. Conditional Statement.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 01. Hello World.go" />
       <item itemvalue="Go Build.go build 02. Input.go" />
+      <item itemvalue="Go Build.go build 03. Conditional Statement.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 02. Input.go" />
+        <item itemvalue="Go Build.go build 03. Conditional Statement.go" />
         <item itemvalue="Go Build.go build 01. Hello World.go" />
+        <item itemvalue="Go Build.go build 02. Input.go" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +187,16 @@
     <entry file="file://$PROJECT_DIR$/Basic.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/02. Input.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01. Hello World.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -173,13 +204,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02. Input.go">
+    <entry file="file://$PROJECT_DIR$/03. Conditional Statement.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
