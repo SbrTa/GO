@@ -32,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03. Conditional Statement.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03. Conditional Statement.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03. Conditional Statement.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
               <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Loop.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04. Loop.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="643">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,6 +66,7 @@
         <option value="$PROJECT_DIR$/01. Hello World.go" />
         <option value="$PROJECT_DIR$/02. Input.go" />
         <option value="$PROJECT_DIR$/03. Conditional Statement.go" />
+        <option value="$PROJECT_DIR$/04. Loop.go" />
       </list>
     </option>
   </component>
@@ -115,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 03. Conditional Statement.go">
+  <component name="RunManager" selected="Go Build.go build 04. Loop.go">
     <configuration name="go build 01. Hello World.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -140,13 +150,23 @@
       <filePath value="$PROJECT_DIR$/03. Conditional Statement.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build 04. Loop.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/04. Loop.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 01. Hello World.go" />
       <item itemvalue="Go Build.go build 02. Input.go" />
       <item itemvalue="Go Build.go build 03. Conditional Statement.go" />
+      <item itemvalue="Go Build.go build 04. Loop.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 04. Loop.go" />
         <item itemvalue="Go Build.go build 03. Conditional Statement.go" />
         <item itemvalue="Go Build.go build 01. Hello World.go" />
         <item itemvalue="Go Build.go build 02. Input.go" />
@@ -208,6 +228,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Loop.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
